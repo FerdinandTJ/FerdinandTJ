@@ -10,9 +10,9 @@ Feel free to explore, contribute, and provide feedback. I am open to collaborati
 
 <!--
 **FerdinandTJ/FerdinandTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![JavaScript](https://img.shields.io/badge/-JavaScript-EDD62E?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
 
 Here are some ideas to get you started:
 
