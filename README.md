@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Anda] 👋
+# Hi there, I'm [Ferdinand Tjondrojo] 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1572B6&center=true&vCenter=true&width=435&lines=Software+Development+Enthusiast;Computer+Science+Student;Lifelong+Learner" alt="Typing SVG" /></a>
 
@@ -36,8 +36,8 @@ Here are some of the languages and tools I'm familiar with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NAMA_PENGGUNA_GITHUB_ANDA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_PENGGUNA_GITHUB_ANDA&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferdinandtj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinandtj&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
