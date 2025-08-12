@@ -18,9 +18,7 @@ I have experience with a wide range of technologies from my projects and academi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,c,js,html,css,dart,swift,sql&perline=10" />
-    <img src="https://skillicons.dev/icons?i=laravel,flask,flutter,bootstrap,javafx,tailwind&perline=10" />
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,linux,postman,figma,powershell&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,c,js,html,css,dart,swift,laravel,flask,flutter,bootstrap,tailwindcss,mysql,sqlite,firebase,git,github,docker,linux,postman,figma,powershell&perline=12" />
   </a>
 </p>
 
