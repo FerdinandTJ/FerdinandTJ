@@ -5,11 +5,11 @@
 
 As a Computer Science student, I possess a solid foundation across multiple software engineering paradigms. My experience spans web application development, object-oriented programming, and low-level systems programming. My previous role as a Practicum Assistant has sharpened my ability to mentor, communicate technical concepts, and solve problems effectively. I am a quick learner, eager to contribute my skills to a dynamic team environment.
 
-<h3 align="center">
-  <a href="https://portfolio-ferdinandtjondrojo.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <strong>✨ Visit my Portfolio Website ✨</strong>
+<p align="center">
+  <a href="https://portfolio-ferdinandtjondrojo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ca35c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</h3>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ferdinandtj/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
