@@ -22,10 +22,29 @@ As a Computer Science student, I possess a solid foundation across multiple soft
 
 I have experience with a wide range of technologies from my projects and academic work.
 
+#### Programming Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,c,js,html,css,dart,swift,laravel,flask,flutter,bootstrap,tailwindcss,mysql,sqlite,firebase,git,github,docker,linux,postman,figma,powershell&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,php,c,js,dart,swift&theme=dark" />
+</p>
+
+#### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwindcss,flutter&theme=dark" />
+</p>
+
+#### Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,php&theme=dark" />
+</p>
+
+#### Database & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,vercel&theme=dark" />
+</p>
+
+#### Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,powershell,vscode&theme=dark" />
 </p>
 
 ---
