@@ -18,36 +18,31 @@ As a Computer Science student, I possess a solid foundation across multiple soft
 
 ---
 
-🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 I have experience with a wide range of technologies from my projects and academic work.
 
-Programming Languages
-
+#### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,php,c,js,dart,swift&theme=dark" />
 </p>
 
-Frontend Development
-
+#### Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwindcss,flutter&theme=dark" />
 </p>
 
-Backend Development
-
+#### Backend Development
 <p align="center">
-  <img src="https://www.google.com/url?sa=E&source=gmail&q=https://skillicons.dev/icons?i=laravel,flask,nodejs,php,codeigniter%26theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,php&theme=dark" />
 </p>
 
-Database & Cloud
-
+#### Database & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,vercel&theme=dark" />
 </p>
 
-Tools & Technologies
-
+#### Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,powershell,vscode&theme=dark" />
 </p>
