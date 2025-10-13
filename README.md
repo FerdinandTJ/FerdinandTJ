@@ -34,7 +34,7 @@ I have experience with a wide range of technologies from my projects and academi
 
 #### Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,codeigniter,php&theme=dark" />
 </p>
 
 #### Database & Cloud
